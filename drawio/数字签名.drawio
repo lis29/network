@@ -1,0 +1,88 @@
+<mxfile host="65bd71144e">
+    <diagram id="j8fEnvCX8aK0wDuWYz85" name="第 1 页">
+        <mxGraphModel dx="780" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="E76INwzQtSQfi6jdPgSD-0"/>
+                <mxCell id="E76INwzQtSQfi6jdPgSD-1" parent="E76INwzQtSQfi6jdPgSD-0"/>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-4" value="" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="300" y="410" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-6" value="公钥" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="320" y="360" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-7" value="私钥&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#DA4026;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="320" y="420" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-8" value="文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="354" y="440" width="56" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-9" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="E76INwzQtSQfi6jdPgSD-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="440" as="sourcePoint"/>
+                        <mxPoint x="530" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-10" value="签名算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="440" y="410" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-12" value="32e4df" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="550" y="435" width="56" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#D2D3D3;gradientColor=none;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="351.5" y="490" width="27" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-14" value="" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="662" y="412.5" width="220" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-16" value="文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="726" y="440" width="56" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-17" value="公钥" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="692" y="430" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-18" value="32e4df" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="802" y="440" width="56" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-19" value="" style="endArrow=classic;html=1;strokeWidth=3;" parent="E76INwzQtSQfi6jdPgSD-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="754" y="380" as="sourcePoint"/>
+                        <mxPoint x="754" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-20" value="没有加密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="722" y="360" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-21" value="" style="endArrow=classic;html=1;strokeWidth=3;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="E76INwzQtSQfi6jdPgSD-1" target="WZNRoyjQBgDnDJUvDbBW-18" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="882" y="380" as="sourcePoint"/>
+                        <mxPoint x="764" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-22" value="加密了文件的hash值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="832" y="360" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-26" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="E76INwzQtSQfi6jdPgSD-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="762" y="490" as="sourcePoint"/>
+                        <mxPoint x="762" y="550" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-27" value="验证算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="762" y="500" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-28" value="YES or NO" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="722" y="560" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="660" y="490" width="17" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="690" y="490" width="17" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="WZNRoyjQBgDnDJUvDbBW-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="E76INwzQtSQfi6jdPgSD-1" vertex="1">
+                    <mxGeometry x="717" y="490" width="17" height="25" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
